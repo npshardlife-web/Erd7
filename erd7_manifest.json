@@ -1,0 +1,7 @@
+{
+  "name":"ERD-7 Environment Recovery Dynamic",
+  "version":"0.7.0",
+  "modes":["status","mayhem","dopamine","guild","diplomacy","recovery","safety"],
+  "modules":["task_engine","xp_rewards","cash_valuation_stub","image_status_stub","guild_roster","conflict_safe_scripts","safety_lock","mission_log"],
+  "safety":"De-escalation, consent, no threats, no forced property handling, stop for hazardous materials or violence."
+}
